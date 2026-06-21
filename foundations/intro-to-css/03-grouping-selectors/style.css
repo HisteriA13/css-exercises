@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+.style {
+    background: #000;
+    color: #FFF;
+}
+
+.elyts {
+    background: rgb(255, 255, 0);
+}
+
+.style,
+.elyts {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
